@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats-Preview-Card
 
-This is a solution to the [Stats-Preview-Card on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-component-Tfa1qawwx). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is my solution to the [Stats-Preview-Card on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-component-Tfa1qawwx). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### Screenshot
 
